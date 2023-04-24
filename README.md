@@ -1,5 +1,7 @@
 # SwiftieConstants
 
+⚠️ IN DEVELOPMENT STILL ⚠️ 
+
 A *Clean* swift package that is full of Taylor Swift constants and references.
 
 ## Information included
