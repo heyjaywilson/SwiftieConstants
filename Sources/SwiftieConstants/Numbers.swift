@@ -8,7 +8,7 @@
 import Foundation
 
 /// Numbers that are important to Taylor Swift
-enum Numbers: Int {
+public enum Numbers: Int, CaseIterable {
     /// favorite number
     case thirteen = 13
     /// I'm feeling

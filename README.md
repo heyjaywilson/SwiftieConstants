@@ -8,8 +8,8 @@ A *Clean* swift package that is full of Taylor Swift constants and references.
 
 - Albums
     - ✅ Names
-    - ❌ Release Dates
-    - ❌ Is a re-record
+    - ✅ Release Dates
+    - ✅ Is a re-record
 - Songs
     - ❌ Names
     - ❌ Album

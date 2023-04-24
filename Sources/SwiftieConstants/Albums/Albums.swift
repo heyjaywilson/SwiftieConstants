@@ -7,7 +7,7 @@
 
 import Foundation
 
-public enum Albums: Int, CaseIterable {
+enum Albums: Int, CaseIterable {
     case taylorSwift
     case fearless
     case speakNow
@@ -21,7 +21,7 @@ public enum Albums: Int, CaseIterable {
     case fearlessTV
     case redTV
 
-    public var info: Album {
+    var info: Album {
         switch self {
             case .taylorSwift:
                 return .TaylorSwift

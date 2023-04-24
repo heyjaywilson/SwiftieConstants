@@ -1,6 +1,7 @@
-public struct SwiftieConstants {
-    public private(set) var text = "Hello, World!"
+import Foundation
 
-    public init() {
-    }
+public struct SwiftieConstants {
+    public static let albumNames = AlbumInfo.names
+    public static let albumReleaseDates = AlbumInfo.releaseDates
+    public static let randomAlbumName = AlbumInfo.randomAlbumName
 }
