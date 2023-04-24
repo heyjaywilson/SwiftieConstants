@@ -8,8 +8,8 @@ A *Clean* swift package that is full of Taylor Swift constants and references.
 
 - Albums
     - ✅ Names
-    - ✅ Release Dates
-    - ❌ Track names on albums
+    - ❌ Release Dates
+    - ❌ Is a re-record
 - Songs
     - ❌ Names
     - ❌ Album
@@ -20,4 +20,4 @@ A *Clean* swift package that is full of Taylor Swift constants and references.
     - ❌ Names
     - ❌ Dates
     - ❌ Number of shows
-- ✅ Special numbers to iterate through
+- ✅ Special [numbers](./Sources/SwiftieConstants/Numbers.swift) to iterate through

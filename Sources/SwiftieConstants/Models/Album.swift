@@ -15,4 +15,5 @@ public struct Album {
     var name: String
     var releaseDate: Date
     var tracks: [Song]
+    var isRerecod: Bool
 }
